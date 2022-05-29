@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&family=Poppins:ital,wght@0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,600;1,700;1,800;1,900&display=swap');
+
+/* 
+
+.btn{
+    margin: 200px 10px 0;
+}
+
+h1{
+    font-size: 150px;
+    font-family: poppins;
+    font-weight: 900;
+    margin-left : 50px;
+    margin-top: 20px;
+}
+
+.bb{
+    font-family: poppins;
+    font-size: 20px;
+    font-weight: 400;
+    box-shadow: 0px 0px 5px 1px #ccc;
+    padding: 10px;
+}
+
+.al{
+    box-shadow: 0px 0px 5px 5px #ccc;
+    font-size: 50px;
+    font-family: poppins;
+    padding: 20px;
+    color: rgba(12, 12, 12, 0.834);
+    background-color: aqua;
+    transition: .8s;
+}
+
+.al:hover{
+  transform: rotate(-20deg);
+  
+} */
+
+
+
+
+
+
+.header{
+    font-family: 'Dancing Script', cursive;
+    font-size: 25px;
+    font-weight: 600;
+}
+#output{
+    font-family:poppins;
+    font-size: 18px;
+    font-weight: 400;
+    color: red;
+
+}
+
+#email {
+    font-family:poppins;
+    font-size: 18px;
+    font-weight: 400;
+    color: red;
+
+}
+#pass{
+    font-family:poppins;
+    font-size: 18px;
+    font-weight: 400;
+    color:blue;
+
+}
+#btn{
+    font-family:poppins;
+    font-size: 25px;
+    font-weight: 300;
+    color:palevioletred;
+
+}
+
+.image img{
+    width: 450px;
+    box-shadow: 0px 0px 5px 1px #ccc;
+    cursor: pointer;
+    position: relative;
+}
+.image{
+    position: relative;
+   
+
+}
+
+
+
+#sound{
+    position: absolute;
+    top: 50;
+    left: 60;
+    z-index: 1;
+    font-size: 30px;
+    font-family: poppins;
+    color: brown;
+    
+}
+
+.counter{
+    background-color: black;
+    padding: 10px;
+    color: #ccc;
+    font-family: poppins;
+    font-weight: 700;
+}
+
+.count{
+    color: cornsilk;
+    background-color: purple;
+    font-family: poppins;
+    border-radius: 0px;
+    margin-top: 30px;
+    margin-right: 15px;
+}
+.counts{
+    color: cornsilk;
+    background-color: red;
+    font-family: poppins;
+    border-radius: 0px;
+    margin-top: 30px;
+    margin-right: 15px;
+}
+.countss{
+    color: cornsilk;
+    background-color: green;
+    font-family: poppins;
+    border-radius: 0px;
+    margin-top: 30px;
+}
+
+
+
+
+/*counter*/
+.countOutput{
+    font-size: 200px;
+    font-family: poppins;
+    font-weight: 900;
+    margin-left : 50px;
+    margin-top: 20px;
+}
+.countpro{
+    font-size: 200px;
+    font-family: poppins;
+    font-weight: 900;
+    margin-left : 50px;
+    margin-top: 20px;
+}
+.p{
+    font-size: 30px;
+    color: red;
+    font-family: poppins;
+}
+.ps{
+    font-size: 30px;
+    color: green;
+    font-family: poppins;
+
+}
